@@ -2,7 +2,13 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="Leson_4" target="17" />
+      <module name="Leson_4.main" target="17" />
+      <module name="Leson_4.test" target="17" />
       <module name="Lesson_2" target="17" />
+      <module name="Lesson_2.Leson_4" target="17" />
+      <module name="Lesson_2.Leson_4.main" target="17" />
+      <module name="Lesson_2.Leson_4.test" target="17" />
       <module name="Lesson_2.main" target="17" />
       <module name="Lesson_2.test" target="17" />
       <module name="Lesson_3" target="17" />
